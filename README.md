@@ -22,6 +22,5 @@ _________________________
 
   
 💻 Réalisé par Bougatfa ahmed, novembre 2021. Libre d'utilisation
-"# bougatfa8" 
 
-�"# back_end2-site-ecommerce-MERN" 
+
