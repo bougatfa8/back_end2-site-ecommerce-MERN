@@ -4,7 +4,7 @@
 
 Démarrer le server : `npm start`
 
-Démarrer le front : `cd client` + `npm start`
+
 
 _____________________________
 
